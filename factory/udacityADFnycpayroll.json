@@ -1,0 +1,9 @@
+{
+	"name": "udacityADFnycpayroll",
+	"location": "switzerlandnorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e6d750ed-4233-440a-a3ca-31e37e6fffd4",
+		"tenantId": "ef4a684e-81b5-491c-a98e-c7b31be6c469"
+	}
+}
