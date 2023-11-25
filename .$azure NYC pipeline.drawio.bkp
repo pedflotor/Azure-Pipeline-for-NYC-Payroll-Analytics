@@ -1,0 +1,298 @@
+<mxfile modified="2023-11-25T16:21:53.385Z" host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="HWEstCmaWDeQGKV_EEWK" version="22.1.2" type="device">
+  <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
+    <mxGraphModel dx="405" dy="252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="28heIlWIprtDJxRmpmQK-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;labelBackgroundColor=none;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="320" width="160" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="rI1JX8pW7Fap40Gf1UJg-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EAEDED;fontSize=22;fontColor=#FFFFFF;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1754" y="26" width="539" height="855" as="geometry" />
+        </mxCell>
+        <mxCell id="rI1JX8pW7Fap40Gf1UJg-2" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1823.5" y="37" width="449" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="rI1JX8pW7Fap40Gf1UJg-3" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1822.5" y="160" width="450" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="rI1JX8pW7Fap40Gf1UJg-4" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1822.5" y="278" width="450" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="rI1JX8pW7Fap40Gf1UJg-5" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1822.5" y="394" width="450" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="rI1JX8pW7Fap40Gf1UJg-6" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1823.5" y="511" width="449" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="rI1JX8pW7Fap40Gf1UJg-7" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1823.5" y="627" width="450" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="rI1JX8pW7Fap40Gf1UJg-8" value="&lt;span&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/span&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=14;labelBackgroundColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1823.5" y="742" width="449" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="rI1JX8pW7Fap40Gf1UJg-9" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1774" y="43.5" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="rI1JX8pW7Fap40Gf1UJg-10" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1774" y="164.5" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="rI1JX8pW7Fap40Gf1UJg-11" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1774" y="285.5" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="rI1JX8pW7Fap40Gf1UJg-12" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1773.9999999999995" y="402.5" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="rI1JX8pW7Fap40Gf1UJg-13" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1773.9999999999995" y="515" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="rI1JX8pW7Fap40Gf1UJg-14" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1773.9999999999995" y="636.5" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="rI1JX8pW7Fap40Gf1UJg-15" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4D9900;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1774" y="745" width="23" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Data_Lake_Store_Gen1.svg;" vertex="1" parent="1">
+          <mxGeometry x="137.84" y="330" width="44.31" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-4" value="Data Lake Gen2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="113.5" y="288.5" width="93" height="20" as="geometry" />
+        </mxCell>
+        <object placeholders="1" c4Name="adlsnycpayrollpedrof" c4Type="" c4Application="Container" label="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;[%c4Application%]&lt;/div&gt;" id="LqPvt4VTklqYwFd_Mdm7-7">
+          <mxCell style="rounded=1;fontSize=10;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="100" y="382" width="120" height="386" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-8" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.folder;" vertex="1" parent="1">
+          <mxGeometry x="136.5" y="401" width="47" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-9" value="dirpayrollfiles" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="113.5" y="380.4" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqPvt4VTklqYwFd_Mdm7-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="509" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-10" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.folder;" vertex="1" parent="1">
+          <mxGeometry x="136.5" y="490.5" width="47" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-11" value="dirhistoryfiles" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="113.5" y="470.5" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-12" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.folder;" vertex="1" parent="1">
+          <mxGeometry x="136.5" y="579" width="47" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-13" value="dirstaging" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="113.5" y="616" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-14" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;" vertex="1" parent="1">
+          <mxGeometry x="486" y="920" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;labelBackgroundColor=none;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="318.5" width="160" height="161.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Synapse Analytics&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Serverless SQL Pool&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Data Lake Gen2&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="797.5" y="430.09" width="165" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-22" value="NYC_Payroll_Data" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="403.5" y="436.5" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-26" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SQL_Database_generic.svg;" vertex="1" parent="1">
+          <mxGeometry x="431" y="324.5" width="38" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-27" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Table.svg;" vertex="1" parent="1">
+          <mxGeometry x="426.5" y="398.31" width="47" height="38.19" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-28" value="&lt;span style=&quot;border-width: 0px; border-style: solid; box-sizing: border-box; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; outline-color: var(--chakra-colors-blue-500); color: rgb(11, 11, 11); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;db_nycpayroll&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="403.5" y="285.5" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=none;fontColor=#333333;labelBackgroundColor=none;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="480.5" width="160" height="479.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-31" value="NYC_Payroll_EMP_MD" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="833.5" y="599.0899999999999" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-34" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Table.svg;" vertex="1" parent="1">
+          <mxGeometry x="856.5" y="560.9" width="47" height="38.19" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-35" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Synapse_Analytics.svg;" vertex="1" parent="1">
+          <mxGeometry x="861" y="489.65" width="38" height="43.7" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-38" value="NYC_Payroll_TITLE_MD" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="833.5" y="667.9999999999999" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-39" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Table.svg;" vertex="1" parent="1">
+          <mxGeometry x="856.5" y="629.81" width="47" height="38.19" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-40" value="NYC_Payroll_AGENCY_MD" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="833.5" y="732.6399999999999" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-41" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Table.svg;" vertex="1" parent="1">
+          <mxGeometry x="856.5" y="694.4499999999999" width="47" height="38.19" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-42" value="NYC_Payroll_Data" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="833.5" y="801.5499999999998" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-43" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Table.svg;" vertex="1" parent="1">
+          <mxGeometry x="856.5" y="763.3599999999999" width="47" height="38.19" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-45" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Linked.svg;" vertex="1" parent="1">
+          <mxGeometry x="223" y="303" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-46" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Linked.svg;" vertex="1" parent="1">
+          <mxGeometry x="512" y="301.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-47" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Linked.svg;" vertex="1" parent="1">
+          <mxGeometry x="942" y="463" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-48" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;nycpayroll_2021.csv&lt;br&gt;EmpMaster.csv&amp;nbsp;&lt;br&gt;TitleMaster.csv&lt;br&gt;AgencyMaster.csv&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="113.49" y="431.5" width="93" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-52" value="&lt;p style=&quot;line-height: 60%;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;nycpayroll_2020.csv&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="113.49" y="519.5" width="93" height="18.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-53" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;strokeColor=#001DBC;labelBackgroundColor=none;fontColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="189.58" y="440.59" width="3.5" height="3.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-55" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;strokeColor=#001DBC;labelBackgroundColor=none;fontColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="189.58" y="447.84" width="3.5" height="3.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-56" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;strokeColor=#001DBC;labelBackgroundColor=none;fontColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="189.58" y="456.59" width="3.5" height="3.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-57" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;strokeColor=#001DBC;labelBackgroundColor=none;fontColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="189.58" y="463.84" width="3.5" height="3.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-58" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ds&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;strokeColor=#001DBC;labelBackgroundColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="499" y="439.5" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-60" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ds&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;strokeColor=#001DBC;labelBackgroundColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="951" y="602.0899999999999" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-61" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ds&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;strokeColor=#001DBC;labelBackgroundColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="951" y="670" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-62" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ds&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;strokeColor=#001DBC;labelBackgroundColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="951" y="735.0899999999999" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-63" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ds&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;strokeColor=#001DBC;labelBackgroundColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="951" y="803" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.051;entryY=0.547;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LqPvt4VTklqYwFd_Mdm7-8" target="LqPvt4VTklqYwFd_Mdm7-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-65" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Pipeline Load 2021 Payroll into SQLDB&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="398.31" width="142" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.581;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LqPvt4VTklqYwFd_Mdm7-8" target="LqPvt4VTklqYwFd_Mdm7-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="419" />
+              <mxPoint x="330" y="583" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LqPvt4VTklqYwFd_Mdm7-8" target="LqPvt4VTklqYwFd_Mdm7-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="419" />
+              <mxPoint x="330" y="652" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.014;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LqPvt4VTklqYwFd_Mdm7-8" target="LqPvt4VTklqYwFd_Mdm7-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="419" />
+              <mxPoint x="330" y="714" />
+              <mxPoint x="856" y="714" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-70" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Pipeline Load EmpMaster to Synapse&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="688" y="562" width="142" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-71" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Pipeline Load TitleMaster to Synapse&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="688" y="629.81" width="142" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-72" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Pipeline Load&amp;nbsp;AgencyMaster&amp;nbsp;to Synapse&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="688" y="694.45" width="152" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-73" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Pipeline Load Curent Year Data from SQLDB to Synapse&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="394" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LqPvt4VTklqYwFd_Mdm7-27" target="LqPvt4VTklqYwFd_Mdm7-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-77" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;strokeColor=#001DBC;labelBackgroundColor=none;fontColor=#ffffff;align=center;" vertex="1" parent="1">
+          <mxGeometry x="189.58" y="529.85" width="3.5" height="3.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-78" value="NYC_Payroll_Summary" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="833.5" y="878.1899999999998" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-79" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Table.svg;" vertex="1" parent="1">
+          <mxGeometry x="856.5" y="839.9999999999999" width="47" height="38.19" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-80" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;ds&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#0050ef;strokeColor=#001DBC;labelBackgroundColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="951" y="879.64" width="16" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.013;entryY=0.549;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LqPvt4VTklqYwFd_Mdm7-27" target="LqPvt4VTklqYwFd_Mdm7-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="417" />
+              <mxPoint x="580" y="861" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <object placeholders="1" c4Name="" c4Type="" c4Application="Azure Data Factory" label="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;%c4Name%&lt;/div&gt;&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;text-align: left; font-size: 10px;&quot;&gt;[%c4Application%]&lt;/div&gt;" id="LqPvt4VTklqYwFd_Mdm7-84">
+          <mxCell style="rounded=1;fontSize=10;whiteSpace=wrap;html=1;dashed=1;arcSize=20;fillColor=none;strokeColor=#666666;fontColor=#333333;labelBackgroundColor=none;align=left;verticalAlign=bottom;labelBorderColor=none;spacingTop=0;spacing=10;dashPattern=8 4;metaEdit=1;rotatable=0;perimeter=rectanglePerimeter;noLabel=0;labelPadding=0;allowArrows=0;connectable=0;expand=0;recursiveResize=0;editable=1;pointerEvents=0;absoluteArcSize=1;points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="30" y="278" width="960" height="800" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-85" value="&lt;span style=&quot;border-width: 0px; border-style: solid; box-sizing: border-box; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; outline-color: var(--chakra-colors-blue-500); color: rgb(11, 11, 11); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;ls_adlg2&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="194" y="339.5" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-86" value="&lt;span style=&quot;border-width: 0px; border-style: solid; box-sizing: border-box; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; outline-color: var(--chakra-colors-blue-500); color: rgb(11, 11, 11); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;ls_sqldb&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="483" y="338" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-87" value="&lt;span style=&quot;border-width: 0px; border-style: solid; box-sizing: border-box; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; outline-color: var(--chakra-colors-blue-500); color: rgb(11, 11, 11); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255); font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;ls_synapse&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="913" y="498" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-93" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;border-width: 0px; border-style: solid; box-sizing: border-box; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; outline-color: var(--chakra-colors-blue-500); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255); font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;ds_&lt;/font&gt;&lt;/span&gt;adlg2_nycpayroll_2021&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="151.25" y="438" width="176.5" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-94" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;border-width: 0px; border-style: solid; box-sizing: border-box; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; outline-color: var(--chakra-colors-blue-500); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255); font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;ds_&lt;/font&gt;&lt;/span&gt;adlg2_&lt;/font&gt;EmpMaster" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="161.5" y="444.5" width="142" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-95" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;border-width: 0px; border-style: solid; box-sizing: border-box; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; outline-color: var(--chakra-colors-blue-500); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255); font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;ds_&lt;/font&gt;&lt;/span&gt;adlg2_&lt;/font&gt;TitleMaster" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="185.99999999999997" y="453.5" width="93" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-96" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;border-width: 0px; border-style: solid; box-sizing: border-box; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; outline-color: var(--chakra-colors-blue-500); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255); font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;ds_&lt;/font&gt;&lt;/span&gt;adlg2_&lt;/font&gt;AgencyMaster" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="189.57999999999998" y="461.34" width="93" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-97" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;border-width: 0px; border-style: solid; box-sizing: border-box; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; outline-color: var(--chakra-colors-blue-500); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255); font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;ds_&lt;/font&gt;&lt;/span&gt;adlg2_&lt;/font&gt;nycpayroll_2020" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="193.99999999999997" y="527.35" width="93" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-98" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;border-width: 0px; border-style: solid; box-sizing: border-box; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; outline-color: var(--chakra-colors-blue-500); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255); font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;ds_&lt;/font&gt;&lt;/span&gt;sqldb_&lt;/font&gt;NYC_Payroll_Data" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="512" y="445.34" width="93" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-99" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;border-width: 0px; border-style: solid; box-sizing: border-box; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; outline-color: var(--chakra-colors-blue-500); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255); font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;ds_&lt;/font&gt;&lt;/span&gt;&amp;nbsp;synapse_&lt;/font&gt;NYC_Payroll_EMP_MD" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="990" y="606.09" width="120" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-100" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;border-width: 0px; border-style: solid; box-sizing: border-box; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; outline-color: var(--chakra-colors-blue-500); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255); font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;ds_&lt;/font&gt;&lt;/span&gt;&amp;nbsp;synapse_&lt;/font&gt;NYC_Payroll_TITLE_MD" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="1003.5" y="679.9999999999999" width="93" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-101" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;border-width: 0px; border-style: solid; box-sizing: border-box; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; outline-color: var(--chakra-colors-blue-500); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255); font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;ds_&lt;/font&gt;&lt;/span&gt;&amp;nbsp;synapse_&lt;/font&gt;NYC_Payroll_AGENCY_MD" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="1008.5" y="738.9999999999999" width="93" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-102" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;border-width: 0px; border-style: solid; box-sizing: border-box; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; outline-color: var(--chakra-colors-blue-500); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255); font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;ds_&lt;/font&gt;&lt;/span&gt;&amp;nbsp;synapse_&lt;/font&gt;NYC_Payroll_Data" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="978" y="807" width="128" height="6" as="geometry" />
+        </mxCell>
+        <mxCell id="LqPvt4VTklqYwFd_Mdm7-103" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;border-width: 0px; border-style: solid; box-sizing: border-box; border-color: var(--chakra-colors-gray-200); overflow-wrap: break-word; outline-color: var(--chakra-colors-blue-500); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255); font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;ds_&lt;/font&gt;&lt;/span&gt;&amp;nbsp;synapse_&lt;/font&gt;NYC_Payroll_Summary" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="1001.5" y="883.6399999999999" width="93" height="6" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
