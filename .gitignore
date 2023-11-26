@@ -2,6 +2,7 @@
 publish_config.json
 udacityADFnycpayroll_ADF/
 .gitignore
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
